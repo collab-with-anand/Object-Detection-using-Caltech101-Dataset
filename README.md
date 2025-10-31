@@ -56,7 +56,7 @@ To implement a **multi-task deep learning model** that performs:
 
 | Input Image | Predicted Box | True Label |
 |--------------|---------------|-------------|
-| ![Example](images/bbox_prediction_example.png) | ✅ Correct class, accurate bounding box | *airplane* |
+| ![Example](images/aeroplane.png) | ✅ Correct class, accurate bounding box | *airplane* |
 
 
 
